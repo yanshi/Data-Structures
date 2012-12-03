@@ -1,3 +1,7 @@
+/*
+ * This is a simple implementation of HashMap. Main property implemented:
+ * put, get, resize
+ */
 import java.io.Serializable;
 import java.util.AbstractMap;
 import java.util.Map;
